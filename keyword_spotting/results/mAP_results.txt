@@ -1,0 +1,120 @@
+Low Dimension size = 15
+0.3964606234570767
+
+Low Dimension size = 16
+0.39418373672627466
+
+Low Dimension size = 17
+0.39207572439339444
+
+Low Dimension size = 18
+0.3916943041804607
+
+Low Dimension size = 19
+0.39570001880122635
+
+Low Dimension size = 15
+0.3912331758100818
+
+Low Dimension size = 16
+0.37684150351328005
+
+Low Dimension size = 17
+0.3956282104662032
+
+Low Dimension size = 18
+0.38971132885328946
+
+Low Dimension size = 19
+0.4013389582909253
+
+Low Dimension size = 15
+0.3812187356659191
+
+Low Dimension size = 16
+0.38210098235595863
+
+Low Dimension size = 17
+0.38550399686094516
+
+Low Dimension size = 18
+0.3873157835798082
+
+Low Dimension size = 19
+0.3917244889938121
+
+Low Dimension size = 15
+0.37538719249244595
+
+Low Dimension size = 16
+0.3792829403523643
+
+Low Dimension size = 17
+0.37720661610989215
+
+Low Dimension size = 18
+0.3826543959132735
+
+Low Dimension size = 19
+0.37796726010146986
+
+Low Dimension size = 15
+0.37325428440193653
+
+Low Dimension size = 16
+0.3793190271194857
+
+Low Dimension size = 17
+0.3769740535555173
+
+Low Dimension size = 18
+0.384528585881829
+
+Low Dimension size = 19
+0.38785264107562023
+
+Low Dimension size = 15
+0.3752961574467631
+
+Low Dimension size = 16
+0.3780333549856196
+
+Low Dimension size = 17
+0.37815071031780384
+
+Low Dimension size = 18
+0.37565157318534653
+
+Low Dimension size = 19
+0.37917543085265853
+
+Low Dimension size = 15
+0.36130071918038686
+
+Low Dimension size = 16
+0.3750095352011338
+
+Low Dimension size = 17
+0.37745178055668616
+
+Low Dimension size = 18
+0.38527751781298936
+
+Low Dimension size = 19
+0.37642314721934494
+
+Low Dimension size = 15
+0.37352262347209975
+
+Low Dimension size = 16
+0.3752517110459514
+
+Low Dimension size = 17
+0.3754014515516399
+
+Low Dimension size = 18
+0.37578084549565693
+
+Low Dimension size = 19
+0.3749031922579308
+
