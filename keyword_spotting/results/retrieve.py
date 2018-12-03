@@ -150,23 +150,12 @@ class MeanAveragePrecision(IterativeMean):
 
         return ret_vec_ap
 
-
-feature_dimension = 20
-
-
-def changeDim(x):
-    global feature_dimension
-    feature_dimension = x
-
-
 def loadVectorsFromFile():
-    myFeatures = 'lowDimDistance2.txt'
-    # myFeatures = '../tSNE/lowDimDistance.txt'
-    # myFeatures = '../feature-extraction/zah-master/distance.txt'
+    myFeatures = 'vae_low_dimension_vectors.txt'
     num_lines = sum(1 for line in open(myFeatures))
     distances = open(myFeatures, 'r')
     disList = list(distances)
-    feature_dim = feature_dimension
+    feature_dim = 20
     floatList = np.zeros((num_lines, feature_dim))
     for i in range(num_lines):
         tokens = disList[i].split(' ')
@@ -184,7 +173,7 @@ def getCustomQuery(Labels, featureVectorList):
         queryLabelsOnce[i] = tokens[0]
         querySize += Labels.count(tokens[0])
 
-    queryFeatures = np.zeros((querySize, feature_dimension))
+    queryFeatures = np.zeros((querySize, 20))
     queryLabels = np.empty(querySize, dtype='S10')
     counter = 0
     for words in queryLabelsOnce:
@@ -196,10 +185,9 @@ def getCustomQuery(Labels, featureVectorList):
     return queryLabels, queryFeatures
 
 
-myLabelsFile = open('labels.txt')
+myLabelsFile = open('../feature_vectors/labels.txt')
 myLabels = list(myLabelsFile)
 Labels = [x[:-1] for x in myLabels]
-
 
 def main():
     featureVectorList = loadVectorsFromFile()
@@ -207,9 +195,10 @@ def main():
     #myLabels, myFeatures = getCustomQuery(Labels, featureVectorList)
     # print(myLabels)
     myResults = open('mAP_results.txt', 'a')
-    myResults.write('Low Dimension size = ' + str(feature_dimension) + '\n')
+    myResults.write('Low Dimension size = ' + str(20) + '\n')
     # a,b = map_from_query_test_feature_matrices(myFeatures, featureVectorList, myLabels, Labels, 'euclidean',False)
     # myResults.write(str(a)+'\t')
+    print(len(featureVectorList),len(Labels))
     a, b = map_from_feature_matrix(featureVectorList, Labels, 'euclidean', False)
     myResults.write(str(a) + '\n\n')
     myResults.close()
