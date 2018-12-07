@@ -1,0 +1,921 @@
+Number of epochs = 1	Low Dimension size = 2
+0.06320413765724023	0.26047148853207597
+
+Number of epochs = 1	Low Dimension size = 4
+0.07326888056088972	0.26952704215367135
+
+Number of epochs = 1	Low Dimension size = 6
+0.08319366550717226	0.29225115791299433
+
+Number of epochs = 1	Low Dimension size = 8
+0.1372517657168503	0.31557009944439884
+
+Number of epochs = 1	Low Dimension size = 10
+0.13742707996863865	0.3280381756501965
+
+Number of epochs = 1	Low Dimension size = 12
+0.1753985260272041	0.34489367034153634
+
+Number of epochs = 1	Low Dimension size = 14
+0.24316100001862373	0.350280772776273
+
+Number of epochs = 1	Low Dimension size = 16
+0.23375149749668367	0.3845624964914116
+
+Number of epochs = 1	Low Dimension size = 18
+0.24267860888265622	0.400377456067589
+
+Number of epochs = 1	Low Dimension size = 20
+0.27962446909255917	0.4260835961602899
+
+Number of epochs = 1	Low Dimension size = 22
+0.3078292462338733	0.4239319369136199
+
+Number of epochs = 1	Low Dimension size = 24
+0.27014586288136316	0.42020343850275294
+
+Number of epochs = 1	Low Dimension size = 26
+0.32329764273290706	0.4604688637727861
+
+Number of epochs = 1	Low Dimension size = 28
+0.3575469684570264	0.4538317515881628
+
+Number of epochs = 1	Low Dimension size = 30
+0.38766045277798283	0.47314458998193387
+
+Number of epochs = 2	Low Dimension size = 2
+0.05741363676793361	0.2595064407243648
+
+Number of epochs = 2	Low Dimension size = 4
+0.0776928717645167	0.2683601942523263
+
+Number of epochs = 2	Low Dimension size = 6
+0.1058090432392704	0.2870539752094795
+
+Number of epochs = 2	Low Dimension size = 8
+0.15962275430569073	0.3128982684413765
+
+Number of epochs = 2	Low Dimension size = 10
+0.14564561778290658	0.31884679539781835
+
+Number of epochs = 2	Low Dimension size = 12
+0.17721263097077092	0.3397077380614414
+
+Number of epochs = 2	Low Dimension size = 14
+0.21398254123211088	0.3560228710577209
+
+Number of epochs = 2	Low Dimension size = 16
+0.24733121045279238	0.3897177304762467
+
+Number of epochs = 2	Low Dimension size = 18
+0.2154733830064607	0.39530905384387355
+
+Number of epochs = 2	Low Dimension size = 20
+0.26439648443893515	0.40229446987043094
+
+Number of epochs = 2	Low Dimension size = 22
+0.28434259659211797	0.42659129798852446
+
+Number of epochs = 2	Low Dimension size = 24
+0.3336232716262505	0.46083092375836454
+
+Number of epochs = 2	Low Dimension size = 26
+0.3534544370689574	0.4444029055743257
+
+Number of epochs = 2	Low Dimension size = 28
+0.4140889142085699	0.4835743898639677
+
+Number of epochs = 2	Low Dimension size = 30
+0.39324601444850044	0.48462328851008657
+
+Number of epochs = 3	Low Dimension size = 2
+0.06729473562109071	0.25438786193525387
+
+Number of epochs = 3	Low Dimension size = 4
+0.07420822396239331	0.2687003049804918
+
+Number of epochs = 3	Low Dimension size = 6
+0.16209418043164894	0.301613515825322
+
+Number of epochs = 3	Low Dimension size = 8
+0.14089806825879805	0.2968091268245928
+
+Number of epochs = 3	Low Dimension size = 10
+0.13725597306690548	0.3158173550009548
+
+Number of epochs = 3	Low Dimension size = 12
+0.16237414237386144	0.34676564316908426
+
+Number of epochs = 3	Low Dimension size = 14
+0.19435581805948499	0.35846169183536464
+
+Number of epochs = 3	Low Dimension size = 16
+0.26537982211320754	0.3852301105057749
+
+Number of epochs = 3	Low Dimension size = 18
+0.2646868085848419	0.41397055817336054
+
+Number of epochs = 3	Low Dimension size = 20
+0.2779158906399491	0.41257945705999544
+
+Number of epochs = 3	Low Dimension size = 22
+0.30283070273257223	0.42700749384638653
+
+Number of epochs = 3	Low Dimension size = 24
+0.34003884308279064	0.432760281614037
+
+Number of epochs = 3	Low Dimension size = 26
+0.3107501276281674	0.4525793253316057
+
+Number of epochs = 3	Low Dimension size = 28
+0.3724520137263483	0.48398513009720423
+
+Number of epochs = 3	Low Dimension size = 30
+0.37299972581587937	0.45535606699501985
+
+Number of epochs = 4	Low Dimension size = 2
+0.06994296389490182	0.25740899022970404
+
+Number of epochs = 4	Low Dimension size = 4
+0.08714742881549316	0.28327620821331995
+
+Number of epochs = 4	Low Dimension size = 6
+0.09123084023494427	0.28446140283857785
+
+Number of epochs = 4	Low Dimension size = 8
+0.13080638133017194	0.31348672744930245
+
+Number of epochs = 4	Low Dimension size = 10
+0.17415412808728448	0.33428393118819005
+
+Number of epochs = 4	Low Dimension size = 12
+0.1742948342719565	0.3438670287029923
+
+Number of epochs = 4	Low Dimension size = 14
+0.19933188055817244	0.3732327096932525
+
+Number of epochs = 4	Low Dimension size = 16
+0.2579524114361298	0.40108685010799916
+
+Number of epochs = 4	Low Dimension size = 18
+0.29239878801246094	0.40018374484792707
+
+Number of epochs = 4	Low Dimension size = 20
+0.2734222500722082	0.39870776011308195
+
+Number of epochs = 4	Low Dimension size = 22
+0.32731876418102324	0.4608747744590112
+
+Number of epochs = 4	Low Dimension size = 24
+0.3061500559961935	0.438403280288845
+
+Number of epochs = 4	Low Dimension size = 26
+0.36108646775546543	0.44377150450118635
+
+Number of epochs = 4	Low Dimension size = 28
+0.35414506909605736	0.4468312471652298
+
+Number of epochs = 4	Low Dimension size = 30
+0.3757887968859071	0.4684752941086422
+
+Number of epochs = 5	Low Dimension size = 2
+0.08624403452913204	0.25891683807013083
+
+Number of epochs = 5	Low Dimension size = 4
+0.07851359914708074	0.26847041231099394
+
+Number of epochs = 5	Low Dimension size = 6
+0.10727338118794642	0.2856823814438164
+
+Number of epochs = 5	Low Dimension size = 8
+0.13300378790258205	0.308231987382396
+
+Number of epochs = 5	Low Dimension size = 10
+0.1672572495851626	0.3311578559867871
+
+Number of epochs = 5	Low Dimension size = 12
+0.16580139210355632	0.3417091373103849
+
+Number of epochs = 5	Low Dimension size = 14
+0.1701934655821193	0.35280506127513767
+
+Number of epochs = 5	Low Dimension size = 16
+0.22526430524619986	0.38220967054696936
+
+Number of epochs = 5	Low Dimension size = 18
+0.2795219842207134	0.38340900718672194
+
+Number of epochs = 5	Low Dimension size = 20
+0.2520026912801002	0.42381613157462433
+
+Number of epochs = 5	Low Dimension size = 22
+0.3338558029524456	0.439212948504687
+
+Number of epochs = 5	Low Dimension size = 24
+0.29087619976636364	0.4291631556529795
+
+Number of epochs = 5	Low Dimension size = 26
+0.358421097818582	0.4518134352330682
+
+Number of epochs = 5	Low Dimension size = 28
+0.3664061838144145	0.4697165472046606
+
+Number of epochs = 5	Low Dimension size = 30
+0.3778055233137653	0.4765276640376714
+
+Number of epochs = 1	Low Dimension size = 32
+0.38882305578774495	0.4802731537635673
+
+Number of epochs = 1	Low Dimension size = 34
+0.4029986064651659	0.4936276926832656
+
+Number of epochs = 1	Low Dimension size = 36
+0.3591579055813059	0.49065367214196387
+
+Number of epochs = 1	Low Dimension size = 38
+0.39126225907995504	0.5056228164542168
+
+Number of epochs = 1	Low Dimension size = 40
+0.4486700030308876	0.509844348258288
+
+Number of epochs = 1	Low Dimension size = 42
+0.43844410469211464	0.5269665271976983
+
+Number of epochs = 1	Low Dimension size = 44
+0.4380830397010539	0.5278043607625535
+
+Number of epochs = 1	Low Dimension size = 46
+0.441377008332155	0.5389017948435552
+
+Number of epochs = 1	Low Dimension size = 48
+0.41330075062186516	0.5114114658151366
+
+Number of epochs = 1	Low Dimension size = 50
+0.47287799042754286	0.5386465460638086
+
+Number of epochs = 1	Low Dimension size = 52
+0.4828409502712707	0.538269272875659
+
+Number of epochs = 1	Low Dimension size = 54
+0.464341636455699	0.5397954836129646
+
+Number of epochs = 1	Low Dimension size = 56
+0.4492047091762045	0.5342810987874455
+
+Number of epochs = 1	Low Dimension size = 58
+0.4586261833749287	0.5533646794185509
+
+Number of epochs = 1	Low Dimension size = 60
+0.46305169911336946	0.5502474360755475
+
+Number of epochs = 1	Low Dimension size = 62
+0.4721272391501259	0.5580443349196913
+
+Number of epochs = 1	Low Dimension size = 64
+0.5064682229607731	0.562436039865474
+
+Number of epochs = 1	Low Dimension size = 66
+0.4973877103944144	0.5385783028563288
+
+Number of epochs = 1	Low Dimension size = 68
+0.4692423075262758	0.5572975329511919
+
+Number of epochs = 1	Low Dimension size = 70
+0.52723356803168	0.5523170922034042
+
+Number of epochs = 1	Low Dimension size = 72
+0.5105161537348915	0.5650832528723951
+
+Number of epochs = 1	Low Dimension size = 74
+0.49737069786185245	0.5752557072205762
+
+Number of epochs = 1	Low Dimension size = 76
+0.516084954960237	0.5599309875950765
+
+Number of epochs = 1	Low Dimension size = 78
+0.5370153555493588	0.579455214910411
+
+Number of epochs = 1	Low Dimension size = 80
+0.5265399836364482	0.5737113625174115
+
+Number of epochs = 1	Low Dimension size = 82
+0.5188807818218198	0.5850077475878147
+
+Number of epochs = 1	Low Dimension size = 84
+0.5125616976846821	0.5841665308163612
+
+Number of epochs = 1	Low Dimension size = 86
+0.5573433991684865	0.5947335742332355
+
+Number of epochs = 1	Low Dimension size = 88
+0.5297669156884057	0.583882355375922
+
+Number of epochs = 1	Low Dimension size = 90
+0.5417976442142582	0.5820623123243495
+
+Number of epochs = 1	Low Dimension size = 92
+0.5163603879648624	0.5853232972184547
+
+Number of epochs = 1	Low Dimension size = 94
+0.5371371794261873	0.5947586866680717
+
+Number of epochs = 1	Low Dimension size = 96
+0.5438676868872168	0.5781623723147216
+
+Number of epochs = 1	Low Dimension size = 98
+0.522376495515231	0.5825506496511281
+
+Number of epochs = 1	Low Dimension size = 100
+0.5368467016591185	0.5866231364926545
+
+Number of epochs = 2	Low Dimension size = 32
+0.37916702107396255	0.46782002414460944
+
+Number of epochs = 2	Low Dimension size = 34
+0.3458743898200084	0.4931486477296755
+
+Number of epochs = 2	Low Dimension size = 36
+0.39219540144151877	0.4900065515586944
+
+Number of epochs = 2	Low Dimension size = 38
+0.4223372924769301	0.4867257083971227
+
+Number of epochs = 2	Low Dimension size = 40
+0.3972785339999874	0.504918798873883
+
+Number of epochs = 2	Low Dimension size = 42
+0.4147596078332213	0.5078408719483972
+
+Number of epochs = 2	Low Dimension size = 44
+0.46056378210872867	0.5281712097032961
+
+Number of epochs = 2	Low Dimension size = 46
+0.41751828569965954	0.5271731786164195
+
+Number of epochs = 2	Low Dimension size = 48
+0.45536748004667216	0.515047564207466
+
+Number of epochs = 2	Low Dimension size = 50
+0.4381016014291236	0.5419340586095386
+
+Number of epochs = 2	Low Dimension size = 52
+0.45053180507779794	0.5335410522585288
+
+Number of epochs = 2	Low Dimension size = 54
+0.45536320226302135	0.5404882625898483
+
+Number of epochs = 2	Low Dimension size = 56
+0.46152273205327843	0.554779871287486
+
+Number of epochs = 2	Low Dimension size = 58
+0.5254574462879859	0.5682145340739782
+
+Number of epochs = 2	Low Dimension size = 60
+0.46355294101547334	0.5509678925170096
+
+Number of epochs = 2	Low Dimension size = 62
+0.45194891811305254	0.5509981801756522
+
+Number of epochs = 2	Low Dimension size = 64
+0.4985155609372435	0.5480862242565236
+
+Number of epochs = 2	Low Dimension size = 66
+0.48038859161384745	0.5568781854974925
+
+Number of epochs = 2	Low Dimension size = 68
+0.5100984193221366	0.5511492544254206
+
+Number of epochs = 2	Low Dimension size = 70
+0.48087523423604006	0.5450733957264493
+
+Number of epochs = 2	Low Dimension size = 72
+0.5121011457394498	0.5512105017353414
+
+Number of epochs = 2	Low Dimension size = 74
+0.5252553956255397	0.5877133437969011
+
+Number of epochs = 2	Low Dimension size = 76
+0.4892973993010203	0.5715066590888807
+
+Number of epochs = 2	Low Dimension size = 78
+0.4944458075201372	0.5848039730908869
+
+Number of epochs = 2	Low Dimension size = 80
+0.5273369612410735	0.5770642975271225
+
+Number of epochs = 2	Low Dimension size = 82
+0.549503418113177	0.5816508239700289
+
+Number of epochs = 2	Low Dimension size = 84
+0.5159772187907911	0.5814009228122498
+
+Number of epochs = 2	Low Dimension size = 86
+0.5164948165311539	0.5854005495505534
+
+Number of epochs = 2	Low Dimension size = 88
+0.5322288056323071	0.5852912098036759
+
+Number of epochs = 2	Low Dimension size = 90
+0.5296118161880398	0.5887418017857442
+
+Number of epochs = 2	Low Dimension size = 92
+0.5456250172263675	0.5829315786832026
+
+Number of epochs = 2	Low Dimension size = 94
+0.523728209839115	0.5922971921798074
+
+Number of epochs = 2	Low Dimension size = 96
+0.5293977923288571	0.5938579698836847
+
+Number of epochs = 2	Low Dimension size = 98
+0.5503852730536665	0.5910571883311592
+
+Number of epochs = 2	Low Dimension size = 100
+0.5304829112250028	0.6001580007066628
+
+Number of epochs = 3	Low Dimension size = 32
+0.41909413205838564	0.4717224945983272
+
+Number of epochs = 3	Low Dimension size = 34
+0.34449285657679396	0.47774235400075654
+
+Number of epochs = 3	Low Dimension size = 36
+0.4187654643507488	0.5214643820416552
+
+Number of epochs = 3	Low Dimension size = 38
+0.4042630628665148	0.48673788496083104
+
+Number of epochs = 3	Low Dimension size = 40
+0.4101661317155029	0.495569761126346
+
+Number of epochs = 3	Low Dimension size = 42
+0.42419431226172916	0.5085049983082152
+
+Number of epochs = 3	Low Dimension size = 44
+0.41691734067372027	0.508048292579324
+
+Number of epochs = 3	Low Dimension size = 46
+0.4321606561413714	0.512042771511381
+
+Number of epochs = 3	Low Dimension size = 48
+0.45032009122253625	0.5264798737937054
+
+Number of epochs = 3	Low Dimension size = 50
+0.4561877200084574	0.5406827327690883
+
+Number of epochs = 3	Low Dimension size = 52
+0.44922181735198746	0.5343924795616215
+
+Number of epochs = 3	Low Dimension size = 54
+0.4704816821039104	0.5263340610941087
+
+Number of epochs = 3	Low Dimension size = 56
+0.43166141619233933	0.5241570676940802
+
+Number of epochs = 3	Low Dimension size = 58
+0.4679680399315175	0.5341476854296944
+
+Number of epochs = 3	Low Dimension size = 60
+0.4918229346815649	0.5474136876209057
+
+Number of epochs = 3	Low Dimension size = 62
+0.483653140359193	0.5260362022391415
+
+Number of epochs = 3	Low Dimension size = 64
+0.4815089874359431	0.5497175558894636
+
+Number of epochs = 3	Low Dimension size = 66
+0.520178645336636	0.5610849721862899
+
+Number of epochs = 3	Low Dimension size = 68
+0.4990809343579669	0.5513701213852509
+
+Number of epochs = 3	Low Dimension size = 70
+0.48754808770741914	0.5654064175832582
+
+Number of epochs = 3	Low Dimension size = 72
+0.4784081321836064	0.567559772271332
+
+Number of epochs = 3	Low Dimension size = 74
+0.49690118099695624	0.5798340664023679
+
+Number of epochs = 3	Low Dimension size = 76
+0.5257010356912399	0.5730298496342068
+
+Number of epochs = 3	Low Dimension size = 78
+0.5234459115822334	0.5805323564722638
+
+Number of epochs = 3	Low Dimension size = 80
+0.49568109548847	0.5820964447187887
+
+Number of epochs = 3	Low Dimension size = 82
+0.5218981595964175	0.57598912268833
+
+Number of epochs = 3	Low Dimension size = 84
+0.5389844973433392	0.5876042752949137
+
+Number of epochs = 3	Low Dimension size = 86
+0.5158646750062433	0.5822429864075587
+
+Number of epochs = 3	Low Dimension size = 88
+0.5241992829661763	0.5835899076401375
+
+Number of epochs = 3	Low Dimension size = 90
+0.5333994988193994	0.5845870867929573
+
+Number of epochs = 3	Low Dimension size = 92
+0.539177141096803	0.5886014002586955
+
+Number of epochs = 3	Low Dimension size = 94
+0.4860146608133287	0.5792407150940468
+
+Number of epochs = 3	Low Dimension size = 96
+0.5267866601199434	0.5890441779392784
+
+Number of epochs = 3	Low Dimension size = 98
+0.519715972938966	0.5855826287327061
+
+Number of epochs = 3	Low Dimension size = 100
+0.5581227522743503	0.5929554251083402
+
+Number of epochs = 4	Low Dimension size = 32
+0.3872139209233863	0.46463638370776705
+
+Number of epochs = 4	Low Dimension size = 34
+0.406655909227114	0.5026948604429569
+
+Number of epochs = 4	Low Dimension size = 36
+0.3853228336611438	0.49273592142537526
+
+Number of epochs = 4	Low Dimension size = 38
+0.4069441055924509	0.5062029368938494
+
+Number of epochs = 4	Low Dimension size = 40
+0.3717017542315654	0.5033624404978816
+
+Number of epochs = 4	Low Dimension size = 42
+0.43604571289887806	0.5025974877526547
+
+Number of epochs = 4	Low Dimension size = 44
+0.43959329125866914	0.515886972389043
+
+Number of epochs = 4	Low Dimension size = 46
+0.44872941514015563	0.5295910975472031
+
+Number of epochs = 4	Low Dimension size = 48
+0.4474620502156689	0.5261887010064977
+
+Number of epochs = 4	Low Dimension size = 50
+0.4775657131794667	0.5463539123421146
+
+Number of epochs = 4	Low Dimension size = 52
+0.46848282996049956	0.5373999142726942
+
+Number of epochs = 4	Low Dimension size = 54
+0.45298455150289413	0.536334500546796
+
+Number of epochs = 4	Low Dimension size = 56
+0.46205620332004915	0.5324690174290625
+
+Number of epochs = 4	Low Dimension size = 58
+0.4571335531190147	0.5481215999601019
+
+Number of epochs = 4	Low Dimension size = 60
+0.4748760359775649	0.5409882383790676
+
+Number of epochs = 4	Low Dimension size = 62
+0.47411919781166006	0.5434357123673753
+
+Number of epochs = 4	Low Dimension size = 64
+0.49255766124685735	0.5666544200332769
+
+Number of epochs = 4	Low Dimension size = 66
+0.49128451808741447	0.5761385508696558
+
+Number of epochs = 4	Low Dimension size = 68
+0.5055158148741882	0.5672855238153207
+
+Number of epochs = 4	Low Dimension size = 70
+0.49472458471935843	0.5753437664443026
+
+Number of epochs = 4	Low Dimension size = 72
+0.523369002179146	0.5760784765984679
+
+Number of epochs = 4	Low Dimension size = 74
+0.48965080378428044	0.5580681326076241
+
+Number of epochs = 4	Low Dimension size = 76
+0.5173576814081307	0.579388185911027
+
+Number of epochs = 4	Low Dimension size = 78
+0.5568815464872194	0.5794990037399215
+
+Number of epochs = 4	Low Dimension size = 80
+0.5133623281447559	0.576332200653745
+
+Number of epochs = 4	Low Dimension size = 82
+0.4935701775438236	0.5652464217170999
+
+Number of epochs = 4	Low Dimension size = 84
+0.46425114783346877	0.576504712778205
+
+Number of epochs = 4	Low Dimension size = 86
+0.5107422527020387	0.5755028675967643
+
+Number of epochs = 4	Low Dimension size = 88
+0.5168318687579665	0.5831100806273279
+
+Number of epochs = 4	Low Dimension size = 90
+0.518430447317957	0.5939384410155903
+
+Number of epochs = 4	Low Dimension size = 92
+0.5391303398686158	0.5811915607317558
+
+Number of epochs = 4	Low Dimension size = 94
+0.5125284979215708	0.5998735152031798
+
+Number of epochs = 4	Low Dimension size = 96
+0.5277677040126898	0.6025350361281638
+
+Number of epochs = 4	Low Dimension size = 98
+0.5307518306435233	0.5794214558614438
+
+Number of epochs = 4	Low Dimension size = 100
+0.5326306692122124	0.5871222925164773
+
+Number of epochs = 5	Low Dimension size = 32
+0.3614808410071372	0.4829914928201067
+
+Number of epochs = 5	Low Dimension size = 34
+0.34756503975277525	0.47088511607369943
+
+Number of epochs = 5	Low Dimension size = 36
+0.42194998967248354	0.48682148456164664
+
+Number of epochs = 5	Low Dimension size = 38
+0.40315864221216385	0.49981188649303926
+
+Number of epochs = 5	Low Dimension size = 40
+0.395151249837359	0.4944561608813888
+
+Number of epochs = 5	Low Dimension size = 42
+0.4218409160659003	0.5089721191909727
+
+Number of epochs = 5	Low Dimension size = 44
+0.4094799941860613	0.521077986526284
+
+Number of epochs = 5	Low Dimension size = 46
+0.41974207278595776	0.5222178478521091
+
+Number of epochs = 5	Low Dimension size = 48
+0.44770965244782657	0.520371946424258
+
+Number of epochs = 5	Low Dimension size = 50
+0.46918904160501446	0.5440185609992273
+
+Number of epochs = 5	Low Dimension size = 52
+0.4624457298383755	0.5444349040014449
+
+Number of epochs = 5	Low Dimension size = 54
+0.46223810834635626	0.5576537105903574
+
+Number of epochs = 5	Low Dimension size = 56
+0.48645287192012354	0.5459382371696355
+
+Number of epochs = 5	Low Dimension size = 58
+0.4958636297129818	0.5502036294361337
+
+Number of epochs = 5	Low Dimension size = 60
+0.4611837265778301	0.5504646342035561
+
+Number of epochs = 5	Low Dimension size = 62
+0.4433416328684534	0.5397920893843331
+
+Number of epochs = 5	Low Dimension size = 64
+0.5023868080944026	0.5788607450151558
+
+Number of epochs = 5	Low Dimension size = 66
+0.5033343232339981	0.5502900561045507
+
+Number of epochs = 5	Low Dimension size = 68
+0.504885020104967	0.5687277149964199
+
+Number of epochs = 5	Low Dimension size = 70
+0.4693576683696378	0.558258756838301
+
+Number of epochs = 5	Low Dimension size = 72
+0.49215329051795803	0.5632263895484827
+
+Number of epochs = 5	Low Dimension size = 74
+0.5362202659831817	0.5659661358726052
+
+Number of epochs = 5	Low Dimension size = 76
+0.4831314213845432	0.5679447731450298
+
+Number of epochs = 5	Low Dimension size = 78
+0.5067814925510956	0.5787003723444879
+
+Number of epochs = 5	Low Dimension size = 80
+0.5105963563424862	0.5700644156182392
+
+Number of epochs = 5	Low Dimension size = 82
+0.51863848698464	0.5789899829229843
+
+Number of epochs = 5	Low Dimension size = 84
+0.5234057915051606	0.5964368706591665
+
+Number of epochs = 5	Low Dimension size = 86
+0.516829894974459	0.5751228751565217
+
+Number of epochs = 5	Low Dimension size = 88
+0.5452556157549148	0.6032455065466614
+
+Number of epochs = 5	Low Dimension size = 90
+0.5011910724214648	0.5788493957216724
+
+Number of epochs = 5	Low Dimension size = 92
+0.5212068366199126	0.5772752448699862
+
+Number of epochs = 5	Low Dimension size = 94
+0.5321060535491259	0.6027764776246305
+
+Number of epochs = 5	Low Dimension size = 96
+0.518712974466075	0.5748374634638859
+
+Number of epochs = 5	Low Dimension size = 98
+0.5251976756856888	0.5813300045804116
+
+Number of epochs = 5	Low Dimension size = 100
+0.4953511345945755	0.572066132109007
+
+Number of epochs = 1	Low Dimension size = 102
+0.5079199102787095	0.5872763208096825
+
+Number of epochs = 1	Low Dimension size = 105
+0.5302622318977716	0.6090804833139841
+
+Number of epochs = 1	Low Dimension size = 108
+0.54990349248025	0.6021322560543304
+
+Number of epochs = 1	Low Dimension size = 111
+0.5657358592284875	0.6036274728205052
+
+Number of epochs = 1	Low Dimension size = 114
+0.5657183239742186	0.6070688896611598
+
+Number of epochs = 1	Low Dimension size = 117
+0.5681493558700825	0.6079712686888015
+
+Number of epochs = 1	Low Dimension size = 120
+0.5340792166648699	0.594396718346323
+
+Number of epochs = 1	Low Dimension size = 123
+0.5196006619433272	0.5921985833479919
+
+Number of epochs = 1	Low Dimension size = 126
+0.5701198905540188	0.6101553418852315
+
+Number of epochs = 1	Low Dimension size = 129
+0.5411907263032051	0.6019872742378939
+
+Number of epochs = 1	Low Dimension size = 132
+0.562890638402143	0.6156954001724788
+
+Number of epochs = 1	Low Dimension size = 135
+0.5584652579648072	0.6064453059456778
+
+Number of epochs = 1	Low Dimension size = 138
+0.5364348364161153	0.6024842910959805
+
+Number of epochs = 1	Low Dimension size = 141
+0.5691905804683194	0.6137762796099583
+
+Number of epochs = 1	Low Dimension size = 144
+0.5614361628747743	0.6149202369990283
+
+Number of epochs = 1	Low Dimension size = 147
+0.5457166174910969	0.6107896679858577
+
+Number of epochs = 1	Low Dimension size = 150
+0.5655809777094104	0.6158044156940552
+
+Number of epochs = 2	Low Dimension size = 102
+0.5447068072297095	0.5999347517864155
+
+Number of epochs = 2	Low Dimension size = 105
+0.5249191819349067	0.5978026097606044
+
+Number of epochs = 2	Low Dimension size = 108
+0.5491738824292327	0.5977277510652302
+
+Number of epochs = 2	Low Dimension size = 111
+0.5316406465268497	0.5830922702813339
+
+Number of epochs = 2	Low Dimension size = 114
+0.532233564551856	0.5896935951518661
+
+Number of epochs = 2	Low Dimension size = 117
+0.544538436393312	0.6123169524811141
+
+Number of epochs = 2	Low Dimension size = 120
+0.5654245141873987	0.5978215587014998
+
+Number of epochs = 2	Low Dimension size = 123
+0.5597546925041695	0.6072327875021714
+
+Number of epochs = 2	Low Dimension size = 126
+0.5530578925829633	0.5950353101802598
+
+Number of epochs = 2	Low Dimension size = 129
+0.5680430909145359	0.6017445757926875
+
+Number of epochs = 2	Low Dimension size = 132
+0.5939458434870912	0.6166598075793063
+
+Number of epochs = 2	Low Dimension size = 135
+0.5624034509975179	0.6098351688371856
+
+Number of epochs = 2	Low Dimension size = 138
+0.5387221706834677	0.6095417423993423
+
+Number of epochs = 2	Low Dimension size = 141
+0.539264766129872	0.6197608253581178
+
+Number of epochs = 2	Low Dimension size = 144
+0.5745323886094391	0.614042324332368
+
+Number of epochs = 2	Low Dimension size = 147
+0.5710712483850479	0.6145760024866784
+
+Number of epochs = 2	Low Dimension size = 150
+0.5830326989096941	0.6125385396424035
+
+Number of epochs = 3	Low Dimension size = 102
+0.5328004083027279	0.5892786094453142
+
+Number of epochs = 3	Low Dimension size = 105
+0.5329683025322682	0.5920165068235069
+
+Number of epochs = 3	Low Dimension size = 108
+0.5557866199252748	0.5881883939923497
+
+Number of epochs = 3	Low Dimension size = 111
+0.5523819581161861	0.5994258535271767
+
+Number of epochs = 3	Low Dimension size = 114
+0.5238354462649013	0.6058340965764891
+
+Number of epochs = 3	Low Dimension size = 117
+0.5640668940332026	0.5985339735941186
+
+Number of epochs = 3	Low Dimension size = 120
+0.5331986024734118	0.5883565888814782
+
+Number of epochs = 3	Low Dimension size = 123
+0.5544219199614461	0.6064192178384934
+
+Number of epochs = 3	Low Dimension size = 126
+0.5452049727987103	0.6042134373686763
+
+Number of epochs = 3	Low Dimension size = 129
+0.560498450527278	0.6056428855972056
+
+Number of epochs = 3	Low Dimension size = 132
+0.5622756843751217	0.6071594517549498
+
+Number of epochs = 3	Low Dimension size = 135
+0.5433721824283205	0.6089217036882028
+
+Number of epochs = 3	Low Dimension size = 138
+0.5568495567346998	0.6224641871513303
+
+Number of epochs = 3	Low Dimension size = 141
+0.5546926153666945	0.6065904350961445
+
+Number of epochs = 3	Low Dimension size = 144
+0.5729253467182802	0.6085650264114968
+
+Number of epochs = 3	Low Dimension size = 147
+0.5638196632848272	0.6054966928437624
+
+Number of epochs = 3	Low Dimension size = 150
+0.5725290540316658	0.6108314389273392
+
+Number of epochs = 4	Low Dimension size = 102
+0.5338211952589059	0.5945603466561394
+
+Number of epochs = 4	Low Dimension size = 105
+0.5369131675804761	0.5880810099746954
+
+Number of epochs = 4	Low Dimension size = 108
+0.5447805981895343	0.6056309441470792
+
+Number of epochs = 1	Low Dimension size = 102
+0.5079199102787095	0.5872763208096825
+
+Number of epochs = 1	Low Dimension size = 105
+0.5302622318977716	0.6090804833139841
+
+Number of epochs = 1	Low Dimension size = 108
+0.54990349248025	0.6021322560543304
+
