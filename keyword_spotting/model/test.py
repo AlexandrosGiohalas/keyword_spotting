@@ -2,7 +2,9 @@ from __future__ import print_function
 import argparse
 import math
 import shutil
-from train import VAE
+from autoencoder import VAE
+from autoencoder import Encoder
+from autoencoder import Decoder
 import numpy as np
 import torch
 import torch.utils.data
@@ -35,7 +37,7 @@ def loadVectorsFromFile(myFeatures):
     distances = open(myFeatures, 'r')
     disList = list(distances)
     print(len(disList),len(disList[0].split(' ')))
-    feature_dim = 768
+    feature_dim = 672
     floatList = np.zeros((num_lines, feature_dim))
     for i in range(num_lines):
         tokens = disList[i].split(' ')
@@ -54,8 +56,10 @@ def main():
     testVectors = torch.FloatTensor(testVectorList)
     model = torch.load('testDatasetModel.pth',map_location='cpu')
     a,b = model.encode(testVectors)
+    # a = model.decode(testVectors)
     tmp = list(a)
-    lowDimDistance = open('../results/vae_low_dimension_vectors.txt','w+')
+    lowDimDistance = open('vae_low_dimension_vectors.txt','w+')
+
     for i in range(len(tmp)):
         for j in range(len(tmp[0])):
             lowDimDistance.write(str(a[i][j].item())+' ')

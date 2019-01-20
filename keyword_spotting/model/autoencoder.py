@@ -116,13 +116,13 @@ featureVectorList = loadVectors.load('../feature_vectors/zah-master/distance.txt
 featureVectors = torch.FloatTensor(featureVectorList)
 
 encoder = Encoder().to(device)
-encoder_optimizer = optim.Adam(encoder.parameters(), lr=1e-4)
+encoder_optimizer = optim.Adam(encoder.parameters(), lr=1e-3)
 
 decoder = Decoder().to(device)
 decoder_optimizer = optim.Adam(decoder.parameters(), lr=1e-3)
 
 model = VAE().to(device)
-optimizer = optim.Adam(model.parameters(), lr=1e-4)
+optimizer = optim.Adam(model.parameters(), lr=1e-3)
 
 lowDimVectorList = loadVectors.load('isomap_low_dimension_vectors.txt', dim)
 # lowDimVectorList = loadVectors.load('lowDimDistance.txt', dim)
@@ -237,7 +237,7 @@ def main():
     lowDimVectorList = loadVectors.load('isomap_low_dimension_vectors.txt', dim)
     # lowDimVectorList = loadVectors.load('lowDimDistance.txt', dim)
     lowDimVectors = torch.FloatTensor(lowDimVectorList)
-    for epoch in range(1,401):
+    for epoch in range(1,11):
         train_encoder(epoch)
         test_encoder(epoch)
     encoder.updateLayers()
@@ -247,7 +247,8 @@ def main():
 
     torch.save(encoder, 'encoderModel.pth')
     torch.save(decoder, 'decoderModel.pth')
-    model.update(encoder,decoder)
+    model.__init__()
+    model = VAE().to(device)
 
     for epoch in range(1, 401):
         train_vae(epoch)

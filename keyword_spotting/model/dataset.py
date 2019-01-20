@@ -7,7 +7,7 @@ def load(myFeatures):
     num_lines = sum(1 for line in open(myFeatures))
     distances = open(myFeatures,'r')
     disList = list(distances)
-    feature_dim = 768
+    feature_dim = 672
     floatList = np.zeros((num_lines,feature_dim))
     for i in range(num_lines):
         tokens = disList[i].split(' ')
@@ -28,14 +28,10 @@ def getNames(path):
 data = '../feature_vectors/zah-master/distance.txt'
 
 class MyDataset(torch.utils.data.Dataset):
-    def change_data_files(self):
-        global data
-        data = '../results/lowDimDistance.txt'
-        self.__init__()
 
     def __init__(self):
         self.data_files = load(data)
-        self.root_dir = ('../../../Datasets/gw/words')
+        self.root_dir = ('../../../Datasets/gw/wordImages')
         self.image_names = getNames('../feature_vectors/zah-master/filenames.txt')
 
 
@@ -45,3 +41,5 @@ class MyDataset(torch.utils.data.Dataset):
 
     def __len__(self):
         return len(self.data_files)
+
+
